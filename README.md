@@ -20,11 +20,20 @@ Tried and tested on 4 different models
 - LightGBM
 - XGBoost
 
-Roc for logistic Regression
+<br>
+
+**Roc for logistic Regression**
 ![Roc for logistic Regression](image-2.png)
 
-Roc for Linear Svc
+<br>
+
+**Roc for Linear Svc**
 ![Roc for Linear Svc](image-3.png)
 
-Roc for LightGBM
+<br>
+
+**Roc for LightGBM**
 ![alt text](image-4.png)
+
+Voting Classifier to make prediction on test dataset
+![voting model](image-5.png)
