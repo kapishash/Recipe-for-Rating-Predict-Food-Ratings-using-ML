@@ -37,3 +37,5 @@ Tried and tested on 4 different models
 
 Voting Classifier to make prediction on test dataset
 ![voting model](image-5.png)
+
+got the best score on 0.793 
