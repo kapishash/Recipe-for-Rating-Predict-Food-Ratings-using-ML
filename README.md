@@ -8,8 +8,6 @@ The above competition is a multiclass classification problem.
 
 Data is imbalanced and bised towards rating 5
 
-
-Data Distribution
 ![data distribution](image.png)
 
 
